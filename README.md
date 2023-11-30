@@ -28,4 +28,4 @@ Sample usage: ./gen instance_type=bluebike trips_data_file=../data/blue_trips.cs
 
 
 Additionally you can add one last interger max_nb_stations=nb to use nb number of stations only
-If you want to make an instance will all the real trips add the parameter output_trips=real
+If you want to make an instance will all the real trips change the parameter output_trips=real
