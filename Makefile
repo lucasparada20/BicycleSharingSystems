@@ -60,7 +60,7 @@ usage:
 	@echo "Sample usage: ./gen instance_type=bluebike trips_data_file=../data/BlueBike2023-04050607.csv stations_data_file=../data/station_information_blue_bike.json start_hour=8 end_hour=22 nb_scenarios=2 nb_instances=1 output_trips=random"
 	@echo "\n"	
 	@echo "Additionally you can add one last interger max_nb_stations=nb to use nb number of stations only"
-	@echo "If you want to make an instance will all the real trips add the parameter output_trips=real"
+	@echo "If you want to make an instance will all the real trips change the parameter output_trips=real"
 
 clean:
 	rm -f $(OUTPUT) $(OBJ_FILES)
