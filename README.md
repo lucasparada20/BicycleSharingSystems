@@ -6,7 +6,7 @@
 
 1.-Building is via Makefile.
 
-2.-type 'make usage' for opions of usage provided in the Makefile. This is the output you should get:
+2.-type 'make usage' for options of usage provided in the Makefile. This is the output you should get:
 
 Usage: ./gen trips.csv station_data.json start_hour end_hour nb_scenarios
 
